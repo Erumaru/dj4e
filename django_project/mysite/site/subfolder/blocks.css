@@ -9,5 +9,13 @@ body {
 
 /* Here is one of many  CSS rules you will need... */
 #one {
-    
+    border-width: 5px;
+    border-color: blue;
+    width: 25%;
+    height: 25%;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    margin: 5px;
+    padding: 5px;
 }
